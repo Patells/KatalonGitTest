@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test_1,Chrome 68.0.3440.106,,2018-08-29 11:57:23,2018-08-29 11:57:48,24.949s,PASSED
+,,,,,,
+Test Cases/Test_1_Tom,Chrome 68.0.3440.106,,2018-08-29 11:57:24,2018-08-29 11:57:41,16.359s,PASSED
+openBrowser,Chrome 68.0.3440.106,,2018-08-29 11:57:25,2018-08-29 11:57:40,14.753s,PASSED
+closeBrowser,Chrome 68.0.3440.106,,2018-08-29 11:57:40,2018-08-29 11:57:41,0.886s,PASSED
+,,,,,,
+Test Cases/Test_2_Kim,Chrome 68.0.3440.106,,2018-08-29 11:57:41,2018-08-29 11:57:48,7.522s,PASSED
+openBrowser,Chrome 68.0.3440.106,,2018-08-29 11:57:41,2018-08-29 11:57:47,6.071s,PASSED
+closeBrowser,Chrome 68.0.3440.106,,2018-08-29 11:57:47,2018-08-29 11:57:48,1.136s,PASSED
