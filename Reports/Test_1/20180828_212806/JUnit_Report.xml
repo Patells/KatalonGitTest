@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test_1" time="28" tests="2" failures="0" errors="0">
+   <testsuite name="Test_1" tests="2" failures="0" errors="0" time="28" timestamp="2018-08-28 21:28:10" hostname="Parth - 192.168.0.12" id="Test Suites/Test_1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Parth\\git\\KatalonGitTest\\Reports\\Test_1\\20180828_212806"/>
+         <property name="logFiles" value="C:\\Users\\Parth\\git\\KatalonGitTest\\Reports\\Test_1\\20180828_212806\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Parth - 192.168.0.12"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.6.1.1"/>
+         <property name="browser" value="Chrome 68.0.3440.106"/>
+         <property name="hostAddress" value="192.168.0.12"/>
+         <property name="sessionId" value="c732ea9cf61bdf278dc4b10a669ab641"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test_1_Tom" classname="Test Cases/Test_1_Tom" status="PASSED">
+         <system-out><![CDATA[2018-08-28 21:28:11 - [TEST_CASE][PASSED] - Test Cases/Test_1_Tom: Test Cases/Test_1_Tom
+
+2018-08-28 21:28:11 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://www.amazon.com/'
+
+2018-08-28 21:28:31 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.amazon.com/'
+
+2018-08-28 21:28:31 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-08-28 21:28:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test_2_Kim" classname="Test Cases/Test_2_Kim" status="PASSED">
+         <system-out><![CDATA[2018-08-28 21:28:32 - [TEST_CASE][PASSED] - Test Cases/Test_2_Kim: Test Cases/Test_2_Kim
+
+2018-08-28 21:28:32 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://lifecharger.org/'
+
+2018-08-28 21:28:38 - [MESSAGE][PASSED] - Browser is opened with url: 'http://lifecharger.org/'
+
+2018-08-28 21:28:38 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-08-28 21:28:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-08-28 21:28:10 - [TEST_SUITE][PASSED] - Test_1: Test Cases/Test_2_Kim]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
